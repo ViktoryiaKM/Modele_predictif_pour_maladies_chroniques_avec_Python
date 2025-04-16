@@ -1,5 +1,5 @@
 
-# ![image](https://github.com/user-attachments/assets/de0b1805-6140-47a5-b2d3-96f110803d7b) Care of Duty – Prédiction des Maladies Chroniques à partir de Données Médicales
+# Care of Duty – Prédiction des Maladies Chroniques à partir de Données Médicales
 
 ## 🎯 Objectif du projet
 
@@ -19,10 +19,7 @@ Les modèles prédictifs en santé apportent une vraie valeur :
 - **Soins personnalisés** : adapter les traitements aux profils individuels.
 - **Optimisation des ressources médicales** : meilleure planification et gestion des soins.
 
----
-
 ## 🧪 Données
-
 Chaque maladie dispose de son propre jeu de données, avec :
 - **Lignes** = patients (malades ou non)
 - **Colonnes** = variables médicales (analyses, diagnostics, symptômes…)
@@ -31,8 +28,6 @@ Les données présentent des défis typiques :
 - Valeurs manquantes
 - Données déséquilibrées
 - Variables spécifiques à chaque pathologie
-
----
 
 ## 🔧 Étapes de traitement
 
@@ -51,8 +46,6 @@ Analyse de la signification clinique des variables et identification des redonda
 ### 4. Sélection des variables
 Techniques d’analyse multivariée pour identifier les biomarqueurs pertinents, en collaboration avec des connaissances médicales.
 
----
-
 ## 🤖 Modélisation prédictive
 
 Pour chaque maladie :
@@ -60,15 +53,13 @@ Pour chaque maladie :
 - Sélection du meilleur modèle selon les performances (précision, recall, F1-score…)
 - Validation croisée
 
----
-
 ## 🖥️ Application web
 
 Une interface simple a été développée permettant :
 - de saisir de nouvelles données médicales
 - d'obtenir une prédiction immédiate du risque de maladie
 
-Technos utilisées :
+## Technos utilisées :
 - Python / scikit-learn / pandas
 - Streamlit ou Flask pour l'app web
 - Visualisations avec matplotlib / seaborn
