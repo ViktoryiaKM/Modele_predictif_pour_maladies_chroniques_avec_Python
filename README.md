@@ -1,5 +1,6 @@
 
-# Care of Duty – Prédiction des Maladies Chroniques à partir de Données Médicales
+## Care of Duty – Prédiction des Maladies Chroniques à partir de Données Médicales
+*Projet collaboratif réalisé dans le cadre de ma formation à la Wild Code School.*
 
 ## 🎯 Objectif du projet
 
