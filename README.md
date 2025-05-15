@@ -52,7 +52,7 @@ Lien vers: [Compréhension des variables médicales](https://github.com/Viktoryi
 ### 4. Sélection des variables
 Techniques d’analyse multivariée pour identifier les biomarqueurs pertinents, en collaboration avec des connaissances médicales.
 
-Lien vers mon notebook: [Pre-traitement_et_Exploration_dataset_cancer_seins](https://github.com/ViktoryiaKM/Modele_predictif_pour_maladies_chroniques_avec_Python/blob/main/Projet3_01_Pre-traitement_et_Exploration_dataset_cancer_seins.ipynb)
+Lien vers mon notebook: [Pre-traitement_et_Exploration_dataset_cancer_seins](https://github.com/ViktoryiaKM/Modele_predictif_pour_maladies_chroniques_avec_Python/blob/main/Projet3_01_Pre-traitement_et_Exploration_dataset_cancer_seins.ipynb)  
 Lien vers le datasef final nettoyé pret pour Machine Learning: [df_cancer_clean.csv](https://github.com/ViktoryiaKM/Modele_predictif_pour_maladies_chroniques_avec_Python/blob/main/df_cancer_clean.csv)
 
 ## 🤖 Modélisation prédictive
