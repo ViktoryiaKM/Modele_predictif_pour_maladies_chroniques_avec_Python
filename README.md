@@ -62,7 +62,7 @@ Pour chaque maladie :
 - Sélection du meilleur modèle selon les performances (précision, recall, F1-score…)
 - Validation croisée
 
-Lien vers mon notebook: [Machine_Learning_tests_algorythmes](https://github.com/ViktoryiaKM/Modele_predictif_pour_maladies_chroniques_avec_Python/blob/main/Projet3_02_Machine_Learning.ipynb))
+Lien vers mon notebook: [Machine_Learning_tests_algo](https://github.com/ViktoryiaKM/Modele_predictif_pour_maladies_chroniques_avec_Python/blob/main/Projet3_02_Machine_Learning.ipynb))
 
 ## 🖥️ Application web
 
