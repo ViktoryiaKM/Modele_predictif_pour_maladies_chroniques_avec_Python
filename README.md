@@ -56,7 +56,7 @@ Pour chaque maladie :
 - Sélection du meilleur modèle selon les performances (précision, recall, F1-score…)
 - Validation croisée
 
-Lien vers: [Machine_Learning_tests_algorythmes](https://github.com/ViktoryiaKM/Modele_predictif_pour_maladies_chroniques_avec_Python/blob/main/Projet3_01_Pre-traitement_et_Exploration_dataset_cancer_seins.ipynb)
+Lien vers: [Machine_Learning_tests_algorythmes](https://github.com/ViktoryiaKM/Modele_predictif_pour_maladies_chroniques_avec_Python/blob/main/Projet3_02_Machine_Learning.ipynb))
 
 ## 🖥️ Application web
 
