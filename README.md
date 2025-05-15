@@ -35,6 +35,8 @@ Les données présentent des défis typiques :
 ### 1. Compréhension des données
 Analyse de la signification clinique des variables et identification des redondances ou incohérences.
 
+Lien vers: [Compréhension des variables médicales](https://github.com/ViktoryiaKM/Modele_predictif_pour_maladies_chroniques_avec_Python/blob/main/variables_Caracteristiques_prediction_cancer_sein.pdf)
+
 ### 2. Prétraitement
 - Nettoyage : suppression/traitement des valeurs manquantes
 - Normalisation / standardisation
