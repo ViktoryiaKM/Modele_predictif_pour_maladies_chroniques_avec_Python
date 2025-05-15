@@ -47,12 +47,16 @@ Analyse de la signification clinique des variables et identification des redonda
 ### 4. Sélection des variables
 Techniques d’analyse multivariée pour identifier les biomarqueurs pertinents, en collaboration avec des connaissances médicales.
 
+Lien vers: [Pre-traitement_et_Exploration_dataset_cancer_seins](https://github.com/ViktoryiaKM/Modele_predictif_pour_maladies_chroniques_avec_Python/blob/main/Projet3_01_Pre-traitement_et_Exploration_dataset_cancer_seins.ipynb)
+
 ## 🤖 Modélisation prédictive
 
 Pour chaque maladie :
 - Test de plusieurs algorithmes (Random Forest, SVM, XGBoost, Logistic Regression…)
 - Sélection du meilleur modèle selon les performances (précision, recall, F1-score…)
 - Validation croisée
+
+Lien vers: [Machine_Learning_tests_algorythmes](https://github.com/ViktoryiaKM/Modele_predictif_pour_maladies_chroniques_avec_Python/blob/main/Projet3_01_Pre-traitement_et_Exploration_dataset_cancer_seins.ipynb)
 
 ## 🖥️ Application web
 
