@@ -1,6 +1,9 @@
 
 ## Care of Duty – Prédiction des Maladies Chroniques à partir de Données Médicales
-*Projet collaboratif réalisé dans le cadre de ma formation à la Wild Code School.*
+*Projet collaboratif réalisé dans le cadre de ma formation à la Wild Code School.
+
+Chaque membre de l'équipe était responsable d'une pathologie spécifique.  
+👉 Ma contribution portait sur la **prédiction du cancer du sein**, de l'exploration des données au développement du modèle machine learning.*
 
 ## 🎯 Objectif du projet
 
@@ -49,7 +52,7 @@ Lien vers: [Compréhension des variables médicales](https://github.com/Viktoryi
 ### 4. Sélection des variables
 Techniques d’analyse multivariée pour identifier les biomarqueurs pertinents, en collaboration avec des connaissances médicales.
 
-Lien vers: [Pre-traitement_et_Exploration_dataset_cancer_seins](https://github.com/ViktoryiaKM/Modele_predictif_pour_maladies_chroniques_avec_Python/blob/main/Projet3_01_Pre-traitement_et_Exploration_dataset_cancer_seins.ipynb)
+Lien vers mon notebook: [Pre-traitement_et_Exploration_dataset_cancer_seins](https://github.com/ViktoryiaKM/Modele_predictif_pour_maladies_chroniques_avec_Python/blob/main/Projet3_01_Pre-traitement_et_Exploration_dataset_cancer_seins.ipynb)
 
 ## 🤖 Modélisation prédictive
 
@@ -58,7 +61,7 @@ Pour chaque maladie :
 - Sélection du meilleur modèle selon les performances (précision, recall, F1-score…)
 - Validation croisée
 
-Lien vers: [Machine_Learning_tests_algorythmes](https://github.com/ViktoryiaKM/Modele_predictif_pour_maladies_chroniques_avec_Python/blob/main/Projet3_02_Machine_Learning.ipynb))
+Lien vers mon notebook: [Machine_Learning_tests_algorythmes](https://github.com/ViktoryiaKM/Modele_predictif_pour_maladies_chroniques_avec_Python/blob/main/Projet3_02_Machine_Learning.ipynb))
 
 ## 🖥️ Application web
 
